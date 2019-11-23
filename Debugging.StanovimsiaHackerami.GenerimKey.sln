@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging.StanovimsiaHackerami.GenerimKey", "Debugging.StanovimsiaHackerami.GenerimKey\Debugging.StanovimsiaHackerami.GenerimKey.csproj", "{A1EB94CE-1DEC-4957-AF81-963E4FB88641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1EB94CE-1DEC-4957-AF81-963E4FB88641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EB94CE-1DEC-4957-AF81-963E4FB88641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EB94CE-1DEC-4957-AF81-963E4FB88641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EB94CE-1DEC-4957-AF81-963E4FB88641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {024F4550-B105-4BBE-9DF0-53946BAE8C8C}
+	EndGlobalSection
+EndGlobal
